@@ -2,6 +2,7 @@
 Trabalho de  IW2 - Desenvolvendo CRUD (Create Read Update Delete - Criar Ler Atualizar Apagar)
 
 Linguagem SQL  (Structured Query Language - Linguagem de Consulta Estruturada por IBM)
+
 Equivalente SQL para CRUD:
 
 - Create: Insert ex. "insert into minhatabela set?" - inserir dados na minhatabela
